@@ -51,7 +51,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Offense-focused blog posts
 
-- [Privilege Escalation via Azure Cloud Shell](https://blog.netspi.com/attacking-azure-cloud-shell/): Leveraging Azure Cloud Shell storage files with subscription contributor permissions to perform cross-account command execution and privilege escalation.
+- [Attacking Azure Cloud Shell](https://blog.netspi.com/attacking-azure-cloud-shell/): Leveraging Azure Cloud Shell storage files with subscription contributor permissions to perform cross-account command execution and privilege escalation.
 - [Nuking all Azure Resource Groups under all Azure Subscriptions](https://kmcquade.com/2020/11/nuking-all-azure-resource-groups-under-all-azure-subscriptions/): How to abuse Azure Resource hierarchy and tenant-wide god-mode Service Principals to nuke an entire Azure environment.
 - [Privilege Escalation and Lateral Movement on Azure](https://medium.com/xm-cyber/privilege-escalation-and-lateral-movement-on-azure-part-1-47e128cfdc06): some techniques for how a red team can gain a foothold in an Azure environment, escalate their privileges, and move laterally inside Azure infrastructure by using the Azure RBAC module and common Azure misconfigurations.
 
@@ -61,9 +61,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Training
 
 - [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning): numerous references for Azure learning, especially for the Azure Certs, Azure Architecture, and any other learning materials e.g. Security topics. [![stars](https://badgen.net/github/stars/ddneves/awesome-azure-learning)](https://badgen.net/github/stars/ddneves/awesome-azure-learning)
-- [Breaking and Pwning Apps and Servers on AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training): Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training. [![stars](https://badgen.net/github/stars/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)](https://badgen.net/github/stars/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 - [Azure AZ 500 Study Guide](https://github.com/AzureMentor/Azure-AZ-500-Study-Guide): Study Guide for the Microsoft Azure Security Technologies Exam. [![stars](https://badgen.net/github/stars/AzureMentor/Azure-AZ-500-Study-Guide)](https://badgen.net/github/stars/AzureMentor/Azure-AZ-500-Study-Guide)
 - [Azure AZ 500 Labs by Microsoft](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies): Study Guide for the Microsoft Azure Security Technologies Exam. [![stars](https://badgen.net/github/stars/MicrosoftLearning/AZ500-AzureSecurityTechnologies)](https://badgen.net/github/stars/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
+- [Breaking and Pwning Apps and Servers on AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training): Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training. [![stars](https://badgen.net/github/stars/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)](https://badgen.net/github/stars/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 
 # Talks
 

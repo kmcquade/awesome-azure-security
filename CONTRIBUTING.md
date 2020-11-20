@@ -26,10 +26,10 @@ Each repo listed meets at least one of the following requirements:
     * Keep descriptions concise.
     * Maintain alphabetical ordering where applicable.
 * Add a GitHub stars badge (if applicable) like this:
-  * `[![stars](https://badgen.net/github/stars/kmcquade/awesome-azure)](https://badgen.net/github/stars/kmcquade/awesome-azure)`
+  * `[![stars](https://badgen.net/github/stars/kmcquade/awesome-azure-security)](https://badgen.net/github/stars/kmcquade/awesome-azure-security)`
 * Add a section if needed.
     * Add the section description.
-    * Add the section title to the [Index](https://github.com/kmcquade/awesome-azure#index).
+    * Add the section title to the [Index](https://github.com/kmcquade/awesome-azure-security#index).
 * You generally do not need to mention `Azure` or `Microsoft Azure` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
