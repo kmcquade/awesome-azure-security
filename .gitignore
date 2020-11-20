@@ -1,0 +1,15 @@
+# IDEs
+.idea
+.vscode
+
+# Mac OS X
+.DS_Store
+
+# Other
+tmp
+!.gitkeep
+
+# Python
+__pycache__/
+env/
+venv/
