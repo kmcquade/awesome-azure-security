@@ -14,8 +14,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
   - [Infrastructure as Code Scanning Tools](#infrastructure-as-code-scanning-tools)
   - [Other Tools](#other-tools)
 - [Blog Posts](#blog-posts)
-  - [Offense-focused blog posts](#offense-focused-blog-posts)
-  - [Defense-focused blog posts](#defense-focused-blog-posts)
+  - [Offensive blog posts](#offensive-blog-posts)
+  - [Defensive blog posts](#defensive-blog-posts)
 - [Training](#training)
 - [Talks](#talks)
 - [Other key resources](#other-key-resources)
@@ -49,13 +49,13 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 # Blog Posts
 
-### Offense-focused blog posts
+### Offensive blog posts
 
 - [Attacking Azure Cloud Shell](https://blog.netspi.com/attacking-azure-cloud-shell/): Leveraging Azure Cloud Shell storage files with subscription contributor permissions to perform cross-account command execution and privilege escalation.
 - [Nuking all Azure Resource Groups under all Azure Subscriptions](https://kmcquade.com/2020/11/nuking-all-azure-resource-groups-under-all-azure-subscriptions/): How to abuse Azure Resource hierarchy and tenant-wide god-mode Service Principals to nuke an entire Azure environment.
 - [Privilege Escalation and Lateral Movement on Azure](https://medium.com/xm-cyber/privilege-escalation-and-lateral-movement-on-azure-part-1-47e128cfdc06): some techniques for how a red team can gain a foothold in an Azure environment, escalate their privileges, and move laterally inside Azure infrastructure by using the Azure RBAC module and common Azure misconfigurations.
 
-### Defense-focused blog posts
+### Defensive blog posts
 
 
 ## Training
