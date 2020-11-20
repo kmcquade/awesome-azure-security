@@ -21,7 +21,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Other key resources](#other-key-resources)
 
 
-## Tools
+# Tools
 
 ### Security Assessment Tools
 
@@ -47,7 +47,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [DumpsterDiver](https://github.com/securing/DumpsterDiver): Tool to search secrets in various filetypes like keys (e.g. AWS Access Key Azure Share Key or SSH keys) or passwords. [![stars](https://badgen.net/github/stars/securing/DumpsterDiver)](https://badgen.net/github/stars/securing/DumpsterDiver)
 
 
-## Blog Posts
+# Blog Posts
 
 ### Offense-focused blog posts
 
@@ -65,7 +65,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Azure AZ 500 Study Guide](https://github.com/AzureMentor/Azure-AZ-500-Study-Guide): Study Guide for the Microsoft Azure Security Technologies Exam. [![stars](https://badgen.net/github/stars/AzureMentor/Azure-AZ-500-Study-Guide)](https://badgen.net/github/stars/AzureMentor/Azure-AZ-500-Study-Guide)
 - [Azure AZ 500 Labs by Microsoft](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies): Study Guide for the Microsoft Azure Security Technologies Exam. [![stars](https://badgen.net/github/stars/MicrosoftLearning/AZ500-AzureSecurityTechnologies)](https://badgen.net/github/stars/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
 
-## Talks
+# Talks
 
-## Other key resources
+# Other key resources
 
