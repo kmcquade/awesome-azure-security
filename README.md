@@ -2,34 +2,70 @@
 
 > A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 
-## Contributing
-
-Contributions are welcome!
-
-Review the [Contributing Guidelines](https://github.com/kmcquade/awesome-azure/blob/master/CONTRIBUTING.md).
-
-## Contents
-
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## Contents
+
+- [Tools](#tools)
+  - [Security Assessment Tools](#security-assessment-tools)
+  - [Offensive Tools](#offensive-tools)
+  - [Infrastructure as Code Scanning Tools](#infrastructure-as-code-scanning-tools)
+  - [Other Tools](#other-tools)
+- [Blog Posts](#blog-posts)
+  - [Offense-focused blog posts](#offense-focused-blog-posts)
+  - [Defense-focused blog posts](#defense-focused-blog-posts)
+- [Training](#training)
+- [Talks](#talks)
+- [Other key resources](#other-key-resources)
+
+
+## Tools
+
+### Security Assessment Tools
+
+- [Azucar](https://github.com/nccgroup/azucar): Security auditing tool for Azure environments. Windows only. [![stars](https://badgen.net/github/stars/nccgroup/azucar)](https://badgen.net/github/stars/nccgroup/azucar)
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security auditing tool. [![stars](https://badgen.net/github/stars/nccgroup/ScoutSuite)](https://badgen.net/github/stars/nccgroup/ScoutSuite)
+
+
+### Offensive Tools
+
+- [MicroBurst](https://github.com/NetSPI/MicroBurst): a PowerShell Toolkit for Attacking Azure. [![stars](https://badgen.net/github/stars/NetSPI/MicroBurst)](https://badgen.net/github/stars/NetSPI/MicroBurst)
+- [PowerZure](https://github.com/hausec/PowerZure): a PowerShell project created to perform reconnaissance and exploitation of Azure, AzureAD, and the associated resources. [![stars](https://badgen.net/github/stars/hausec/PowerZure)](https://badgen.net/github/stars/hausec/PowerZure)
+- [ROADrecon](https://github.com/dirkjanm/ROADtools): a tool for exploring information in Azure AD from both a Red Team and Blue Team perspective. [![stars](https://badgen.net/github/stars/dirkjanm/ROADtools)](https://badgen.net/github/stars/dirkjanm/ROADtools)
+
+
+### Infrastructure as Code Scanning Tools
+
+- [Checkov](https://github.com/bridgecrewio/checkov): Terraform, Cloudformation and Kubernetes static analysis written in python. [![stars](https://badgen.net/github/stars/bridgecrewio/checkov)](https://badgen.net/github/stars/bridgecrewio/checkov)
+- [tfsec](https://github.com/tfsec/tfsec): Provides static analysis of your terraform templates to spot potential security issues. [![stars](https://badgen.net/github/stars/tfsec/tfsec)](https://badgen.net/github/stars/tfsec/tfsec)
+
+
+### Other Tools
+
+- [DumpsterDiver](https://github.com/securing/DumpsterDiver): Tool to search secrets in various filetypes like keys (e.g. AWS Access Key Azure Share Key or SSH keys) or passwords. [![stars](https://badgen.net/github/stars/securing/DumpsterDiver)](https://badgen.net/github/stars/securing/DumpsterDiver)
+
+
+## Blog Posts
+
+### Offense-focused blog posts
+
+- [Privilege Escalation via Azure Cloud Shell](https://blog.netspi.com/attacking-azure-cloud-shell/): Leveraging Azure Cloud Shell storage files with subscription contributor permissions to perform cross-account command execution and privilege escalation.
+- [Nuking all Azure Resource Groups under all Azure Subscriptions](https://kmcquade.com/2020/11/nuking-all-azure-resource-groups-under-all-azure-subscriptions/): How to abuse Azure Resource hierarchy and tenant-wide god-mode Service Principals to nuke an entire Azure environment.
+- [Privilege Escalation and Lateral Movement on Azure](https://medium.com/xm-cyber/privilege-escalation-and-lateral-movement-on-azure-part-1-47e128cfdc06): some techniques for how a red team can gain a foothold in an Azure environment, escalate their privileges, and move laterally inside Azure infrastructure by using the Azure RBAC module and common Azure misconfigurations.
+
+### Defense-focused blog posts
+
+
+## Training
+
+- [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning): numerous references for Azure learning, especially for the Azure Certs, Azure Architecture, and any other learning materials e.g. Security topics. [![stars](https://badgen.net/github/stars/MicrosoftLearning/ddneves/awesome-azure-learning)](https://badgen.net/github/stars/ddneves/awesome-azure-learning)
+- [Breaking and Pwning Apps and Servers on AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training): Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training. [![stars](https://badgen.net/github/stars/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)](https://badgen.net/github/stars/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
+- [Azure AZ 500 Study Guide](https://github.com/AzureMentor/Azure-AZ-500-Study-Guide): Study Guide for the Microsoft Azure Security Technologies Exam. [![stars](https://badgen.net/github/stars/AzureMentor/Azure-AZ-500-Study-Guide)](https://badgen.net/github/stars/AzureMentor/Azure-AZ-500-Study-Guide)
+- [Azure AZ 500 Labs by Microsoft](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies): Study Guide for the Microsoft Azure Security Technologies Exam. [![stars](https://badgen.net/github/stars/MicrosoftLearning/AZ500-AzureSecurityTechnologies)](https://badgen.net/github/stars/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
+
+## Talks
+
+## Other key resources
+
