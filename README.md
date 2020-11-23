@@ -26,6 +26,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Security Assessment Tools
 
 - [Azucar](https://github.com/nccgroup/azucar): Security auditing tool for Azure environments. Windows only. [![stars](https://badgen.net/github/stars/nccgroup/azucar)](https://badgen.net/github/stars/nccgroup/azucar)
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound): BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment that would otherwise be impossible to quickly identify.  [![stars](https://badgen.net/github/stars/BloodHoundAD/BloodHound)](https://badgen.net/github/stars/BloodHoundAD/BloodHound)
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security auditing tool. [![stars](https://badgen.net/github/stars/nccgroup/ScoutSuite)](https://badgen.net/github/stars/nccgroup/ScoutSuite)
 - [StormSpotter](https://github.com/Azure/Stormspotter): Azure Red Team tool for graphing Azure and Azure Active Directory objects. [![stars](https://badgen.net/github/stars/Azure/Stormspotter)](https://badgen.net/github/stars/Azure/Stormspotter)
 
