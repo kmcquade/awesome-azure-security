@@ -27,6 +27,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Azucar](https://github.com/nccgroup/azucar): Security auditing tool for Azure environments. Windows only. [![stars](https://badgen.net/github/stars/nccgroup/azucar)](https://badgen.net/github/stars/nccgroup/azucar)
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security auditing tool. [![stars](https://badgen.net/github/stars/nccgroup/ScoutSuite)](https://badgen.net/github/stars/nccgroup/ScoutSuite)
+- [StormSpotter](https://github.com/Azure/Stormspotter): Azure Red Team tool for graphing Azure and Azure Active Directory objects. [![stars](https://badgen.net/github/stars/Azure/Stormspotter)](https://badgen.net/github/stars/Azure/Stormspotter)
 
 
 ### Offensive Tools
