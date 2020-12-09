@@ -1,6 +1,6 @@
 # Awesome Azure Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
+> A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources. xxx
 
 ## Contribute
 
