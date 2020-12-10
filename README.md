@@ -1,6 +1,6 @@
 # Awesome Azure Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources. xxx
+> A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 
 ## Contribute
 
@@ -13,6 +13,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
   - [Offensive Tools](#offensive-tools)
   - [Infrastructure as Code Scanning Tools](#infrastructure-as-code-scanning-tools)
   - [Other Tools](#other-tools)
+- [Threat Detection and Response](#threat-detection-and-response)
+  - [Audit Logging](#audit-logging)
+  - [Native Alerting](#native-alerting)
 - [Blog Posts](#blog-posts)
   - [Offensive blog posts](#offensive-blog-posts)
   - [Defensive blog posts](#defensive-blog-posts)
@@ -48,6 +51,13 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [DumpsterDiver](https://github.com/securing/DumpsterDiver): Tool to search secrets in various filetypes like keys (e.g. AWS Access Key Azure Share Key or SSH keys) or passwords. [![stars](https://badgen.net/github/stars/securing/DumpsterDiver)](https://badgen.net/github/stars/securing/DumpsterDiver)
 
+# Threat Detection and Response
+
+### Audit Logging
+- [Azure security logging and auditing](https://docs.microsoft.com/en-us/azure/security/fundamentals/log-audit): Azure provides a wide array of configurable security auditing and logging options to help you identify gaps in your security policies and mechanisms.
+
+### Native Alerting
+- [Azure Security Center - Alerts Reference Guide](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference): This article lists the security alerts you might get from Azure Security Center and any Azure Defender plans you've enabled.
 
 # Blog Posts
 
