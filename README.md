@@ -66,6 +66,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Attacking Azure Cloud Shell](https://blog.netspi.com/attacking-azure-cloud-shell/): Leveraging Azure Cloud Shell storage files with subscription contributor permissions to perform cross-account command execution and privilege escalation.
 - [Nuking all Azure Resource Groups under all Azure Subscriptions](https://kmcquade.com/2020/11/nuking-all-azure-resource-groups-under-all-azure-subscriptions/): How to abuse Azure Resource hierarchy and tenant-wide god-mode Service Principals to nuke an entire Azure environment.
 - [Privilege Escalation and Lateral Movement on Azure](https://medium.com/xm-cyber/privilege-escalation-and-lateral-movement-on-azure-part-1-47e128cfdc06): some techniques for how a red team can gain a foothold in an Azure environment, escalate their privileges, and move laterally inside Azure infrastructure by using the Azure RBAC module and common Azure misconfigurations.
+- [Abusing Azure AD SSO with the Primary Refresh Token](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/): Most corporate devices have Primary Refresh Tokens - long term tokens stored on your laptop or other AD connected resources - for Single Sign On (SSO) against on-prem and Azure AD connected resources. See Dirk-jan Mollema's blog goes over abusing these tokens, which you can access if you have code execution on a target or on your laptop that is Azure AD joined.
 
 ### Defensive blog posts
 
