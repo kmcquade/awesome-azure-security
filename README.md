@@ -44,6 +44,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ### Infrastructure as Code Scanning Tools
 
 - [Checkov](https://github.com/bridgecrewio/checkov): Terraform, Cloudformation and Kubernetes static analysis written in python. [![stars](https://badgen.net/github/stars/bridgecrewio/checkov)](https://badgen.net/github/stars/bridgecrewio/checkov)
+- [Terraform Compliance for Azure](https://github.com/turbot/steampipe-mod-terraform-azure-compliance): Steampipe module to check compliance of Terraform configurations to Azure security best practices. [![stars](https://badgen.net/github/stars/turbot/steampipe-mod-terraform-azure-compliance)](https://badgen.net/github/stars/turbot/steampipe-mod-terraform-azure-compliance)
 - [tfsec](https://github.com/tfsec/tfsec): Provides static analysis of your terraform templates to spot potential security issues. [![stars](https://badgen.net/github/stars/tfsec/tfsec)](https://badgen.net/github/stars/tfsec/tfsec)
 
 
