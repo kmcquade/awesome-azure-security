@@ -72,6 +72,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Defensive blog posts
 
+- [Detect Azure network configuration mistakes with visualization using Flow Logs and Traffic Analytics](https://autosysops.com/blog/use-traffic-analytics-to-spot-common-azure-network-mistakes)
 
 ## Training
 
