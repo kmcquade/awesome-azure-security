@@ -72,6 +72,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Defensive blog posts
 
+- [Detect Azure network configuration mistakes with visualization using Flow Logs and Traffic Analytics](https://autosysops.com/blog/use-traffic-analytics-to-spot-common-azure-network-mistakes): Use Traffic Analytics and Flow Logs in Azure to spot network configuration mistakes by visualizing your flows. This tool gives you multiple different visual graphs to spot mistakes and malicious behavior.
 
 ## Training
 
