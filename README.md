@@ -74,7 +74,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Defensive blog posts
 
-- [Detect Azure network configuration mistakes with visualization using Flow Logs and Traffic Analytics](https://autosysops.com/blog/use-traffic-analytics-to-spot-common-azure-network-mistakes): Use Traffic Analytics and Flow Logs in Azure to spot network configuration mistakes by visualizing your flows. This tool gives you multiple different visual graphs to spot mistakes and malicious behavior.
+- [Detect Azure network configuration mistakes with visualization using Flow Logs and Traffic Analytics](https://autosysops.com/blog/use-traffic-analytics-to-spot-common-azure-network-mistakes) by [Leo Visser (@AutoSysOps)](https://twitter.com/autosysops): Use Traffic Analytics and Flow Logs in Azure to spot network configuration mistakes by visualizing your flows. This tool gives you multiple different visual graphs to spot mistakes and malicious behavior.
+- [Use Azure API Management and Keyvault to authorize based on API body values](https://autosysops.com/blog/control-api-arguments-per-team-with-azure-api-management) by [Leo Visser (@AutoSysOps)](https://twitter.com/autosysops): There are times where you want to limit certain values in a POST request to specific teams/people. This could be build into the API itself, but you can also use serverless techniques in Azure to manage this for you and keep your overall API less complex. This will reduce the attack vector of your overall API.
 
 ## Training
 
